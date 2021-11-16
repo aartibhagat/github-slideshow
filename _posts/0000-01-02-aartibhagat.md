@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"today is your opportunity to build the tomorrow you want" - ken poirot
+"if you can dream it, you can do it" - Walt Disney
 Use the left arrow to go back!
