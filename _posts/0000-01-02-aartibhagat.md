@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"today is your opportunity to build the tomorrow you want" - ken poirot
 Use the left arrow to go back!
